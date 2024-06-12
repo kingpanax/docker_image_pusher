@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor
+docker.io/rancher/hardened-coredns:v1.11.1-build20240305
