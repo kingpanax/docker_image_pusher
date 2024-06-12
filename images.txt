@@ -1,1 +1,14 @@
-docker.io/rancher/hardened-etcd:v3.5.9-k3s1-build20240418
+docker.io/rancher/hardened-kubernetes:v1.29.6-rke2r1-build20240612
+docker.io/rancher/hardened-cluster-autoscaler:v1.8.10-build20240124
+docker.io/rancher/hardened-coredns:v1.11.1-build20240305
+docker.io/rancher/hardened-dns-node-cache:1.22.28-build20240125
+docker.io/rancher/hardened-k8s-metrics-server:v0.7.1-build20240401
+docker.io/rancher/hardened-addon-resizer:1.8.20-build20240410
+docker.io/rancher/klipper-helm:v0.8.4-build20240523
+docker.io/rancher/klipper-lb:v0.4.7
+docker.io/rancher/mirrored-pause:3.10-amd64
+docker.io/rancher/mirrored-ingress-nginx-kube-webhook-certgen:v20230312-helm-chart-4.5.2-28-g66a760794
+docker.io/rancher/nginx-ingress-controller:v1.10.1-hardened1
+docker.io/rancher/mirrored-sig-storage-snapshot-controller:v6.2.1
+docker.io/rancher/mirrored-sig-storage-snapshot-validation-webhook:v6.2.2
+docker.io/rancher/rke2-cloud-provider:v1.29.3-build20240515
