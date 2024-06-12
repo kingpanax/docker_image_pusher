@@ -1,1 +1,1 @@
-nginx:1.27.0
+frooodle/s-pdf:0.26.0
