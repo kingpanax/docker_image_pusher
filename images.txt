@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/nfsplugin:v4.7.0
+docker.io/rabbitmqoperator/cluster-operator:2.9.0
