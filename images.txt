@@ -1,1 +1,1 @@
-docker.io/rabbitmqoperator/cluster-operator:2.9.0
+docker.io/atlassian/confluence:8.9.3
