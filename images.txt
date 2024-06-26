@@ -1,3 +1,1 @@
-docker.io/atlassian/confluence:8.7.1
-docker.io/atlassian/jira-servicemanagement:5.12.0
-docker.io/atlassian/crowd:5.2.0
+docker.io/postgres:16.3
