@@ -1,1 +1,1 @@
-docker.io/postgres:16.3
+quay.io/prometheus/node-exporter:v1.8.1
