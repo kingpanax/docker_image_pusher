@@ -1,1 +1,4 @@
-docker.io/rabbitmq:3.13.4
+mcr.microsoft.com/dotnet/sdk:8.0.303
+mcr.microsoft.com/dotnet/runtime:8.0.7
+mcr.microsoft.com/dotnet/aspnet:8.0.7
+docker.io/codercom/code-server:4.91.0
