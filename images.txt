@@ -1,1 +1,5 @@
-elsaworkflows/elsa-dashboard-and-server:sha-a7544f3
+docker.io/elsaworkflows/elsa-dashboard-and-server:sha-a7544f3
+docker.io/elsaworkflows/elsa-dashboard-and-server:sha-6a7b4db
+docker.io/elsaworkflows/elsa-dashboard-and-server:sha-2c431f5
+docker.io/elsaworkflows/elsa-dashboard-and-server:sha-dbe75a8
+docker.io/elsaworkflows/elsa-dashboard-and-server:sha-d8c33f9
