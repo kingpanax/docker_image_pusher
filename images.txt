@@ -1,1 +1,1 @@
-quay.io/prometheus/node-exporter:v1.8.2
+elsaworkflows/elsa-dashboard-and-server:sha-a7544f3
