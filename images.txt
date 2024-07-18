@@ -1,5 +1,5 @@
-docker.io/elsaworkflows/elsa-dashboard-and-server:sha-a7544f3
-docker.io/elsaworkflows/elsa-dashboard-and-server:sha-6a7b4db
-docker.io/elsaworkflows/elsa-dashboard-and-server:sha-2c431f5
-docker.io/elsaworkflows/elsa-dashboard-and-server:sha-dbe75a8
-docker.io/elsaworkflows/elsa-dashboard-and-server:sha-d8c33f9
+docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-0816443
+docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-1c9f664
+docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-90dc37e
+docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-469d909
+docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-e2db163
