@@ -1,5 +1,1 @@
-docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-0816443
-docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-1c9f664
-docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-90dc37e
-docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-469d909
-docker.io/elsaworkflows/elsa-server-and-studio-v3:sha-e2db163
+quay.io/containers/skopeo:v1.15.2
