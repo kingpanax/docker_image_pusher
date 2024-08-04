@@ -1,1 +1,1 @@
-quay.io/containers/skopeo:v1.15.2
+ghcr.io/open-webui/open-webui:ollama
