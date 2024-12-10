@@ -1,1 +1,2 @@
-docker.io/traefik:v3.2.1
+docker.io/portainer/portainer-ce:2.24.1
+docker.io/portainer/portainer-agent:2.24.1
