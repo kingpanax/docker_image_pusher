@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/csi-provisioner:v5.0.2
+registry.k8s.io/sig-storage/nfsplugin:v4.9.0
