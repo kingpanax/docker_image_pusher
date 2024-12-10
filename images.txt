@@ -1,2 +1,2 @@
-portainer/portainer-ce:2.24.1
-portainer/portainer-agent:2.24.1
+docker.io/portainer/portainer-ce:2.24.1
+docker.io/portainer/portainer-agent:2.24.1
