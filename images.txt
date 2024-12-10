@@ -1,1 +1,2 @@
-registry.k8s.io/sig-storage/nfsplugin:v4.9.0
+docker.io/portainer/portainer-ce:2.24.1
+docker.io/portainer/portainer-agent:2.24.1
