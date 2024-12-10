@@ -1,1 +1,1 @@
-docker.io/traefik:v3.2.1
+docker.io/traefik:v3.2.0
