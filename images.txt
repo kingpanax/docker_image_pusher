@@ -1,2 +1,1 @@
-docker.io/portainer/portainer-ce:2.24.1
-docker.io/portainer/portainer-agent:2.24.1
+registry.k8s.io/sig-storage/csi-provisioner:v5.0.2
