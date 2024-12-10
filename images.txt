@@ -1,1 +1,2 @@
-ghcr.io/swivid/f5-tts:main
+portainer/portainer-ce:2.24.1
+portainer/portainer-agent:2.24.1
