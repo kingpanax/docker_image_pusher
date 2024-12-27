@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.51.0
+docker.io/linuxserver/qbittorrent:5.0.3
