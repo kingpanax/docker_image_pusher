@@ -1,2 +1,1 @@
-docker.io/linuxserver/qbittorrent:5.0.3
-docker.io/ollama/ollama:0.5.4
+unclecode/crawl4ai:all
