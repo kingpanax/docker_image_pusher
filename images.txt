@@ -1,6 +1,1 @@
-docker.io/redis:6-alpine
-docker.io/langgenius/dify-sandbox:0.2.10
-docker.io/ubuntu/squid:latest
-docker.io/postgres:15-alpine
-docker.io/langgenius/dify-web:0.15.3
-docker.io/langgenius/dify-api:0.15.3
+semitechnologies/weaviate:1.19.0
