@@ -1,1 +1,1 @@
-unclecode/crawl4ai:all
+docker.io/unclecode/crawl4ai:all
