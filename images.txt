@@ -1,1 +1,1 @@
-docker.io/semitechnologies/weaviate:1.19.0
+docker.io/n8nio/n8n:1.78.0
