@@ -1,2 +1,1 @@
-docker.io/crazymax/swarm-cronjob:1.14.0
-docker.io/linuxserver/zotero:7.0.13
+gcr.io/cadvisor/cadvisor:0.52.1
