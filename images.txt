@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.52.1
+docker.io/crazymax/diun:4.29.0
