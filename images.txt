@@ -1,1 +1,1 @@
-docker.io/crazymax/diun:4.29.0
+docker.io/dkron/dkron:4.0.4
