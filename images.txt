@@ -1,1 +1,1 @@
-docker.io/dkron/dkron:4.0.4
+ghcr.io/coqui-ai/tts:v0.22.0
