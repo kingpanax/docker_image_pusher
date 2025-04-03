@@ -1,1 +1,1 @@
-ghcr.io/coqui-ai/tts:v0.22.0
+ghcr.io/ourongxing/newsnow:v0.0.25
