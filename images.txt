@@ -1,1 +1,1 @@
-docker.io/n8nio/n8n:1.86.1
+ghcr.io/xbapps/xbvr:0.4.33
