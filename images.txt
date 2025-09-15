@@ -1,1 +1,1 @@
-ghcr.io/xbapps/xbvr:0.4.33
+ghcr.io/swivid/f5-tts:main
