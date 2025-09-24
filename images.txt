@@ -1,1 +1,1 @@
-ghcr.io/swivid/f5-tts:main
+docker.io/aicompdev/indextts2:0.1
