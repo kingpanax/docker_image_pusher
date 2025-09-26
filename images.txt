@@ -1,1 +1,1 @@
-docker.io/aicompdev/indextts2:0.1
+docker.io/linuxserver/faster-whisper:2.5.0-gpu-legacy
