@@ -1,1 +1,1 @@
-docker.io/linuxserver/faster-whisper:2.5.0-gpu-legacy
+docker.io/python:3.12.11-slim
