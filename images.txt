@@ -1,1 +1,1 @@
-docker.io/python:3.12.11-slim
+mcr.microsoft.com/playwright/python:v1.58.0
