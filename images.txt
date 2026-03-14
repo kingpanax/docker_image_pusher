@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/python:v1.58.0
+ghcr.io/beck-8/subs-check:1.4.7
