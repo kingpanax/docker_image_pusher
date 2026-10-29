@@ -1,1 +1,1 @@
-ghcr.io/ggml-org/llama.cpp:server-cuda13
+mcr.microsoft.com/dotnet/sdk:10.0.403-alpine3.24-arm64v8
