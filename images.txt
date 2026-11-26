@@ -1,1 +1,1 @@
-ghcr.io/xmwengxing/cfpilot:0.50.0
+--platform=linux/arm64 akiralereal/iptv:4.84
